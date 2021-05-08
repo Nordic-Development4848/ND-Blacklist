@@ -22,7 +22,6 @@ Citizen.CreateThread(function()
 					sendForbiddenMessage("Dette våben er blacklisted!!")
 					TriggerServerEvent("icey:vaben")
 				end
-			end
 		end
 	end
 end)
